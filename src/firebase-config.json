@@ -1,0 +1,10 @@
+{
+  "apiKey": "AIzaSyCYI8tN924j65vdbn1p-Yzk1d976e4EXwM",
+  "authDomain": "wyblog1.firebaseapp.com",
+  "projectId": "wyblog1",
+  "storageBucket": "wyblog1.firebasestorage.app",
+  "messagingSenderId": "336657144866",
+  "appId": "1:336657144866:web:1a02a0b711649104db3e7b",
+  "measurementId": "G-WM113Z61H2",
+  "vapidKey": "REPLACE_WITH_FIREBASE_WEB_PUSH_CERTIFICATE_KEY"
+}
